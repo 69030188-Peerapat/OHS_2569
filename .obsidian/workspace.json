@@ -179,13 +179,23 @@
               "icon": "lucide-list",
               "title": "Outline of Worker Status May 2026"
             }
+          },
+          {
+            "id": "2d8c8dffbd558e34",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,19 +205,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae671ceb7d94b57e",
+  "active": "30511765207f1a34",
   "lastOpenFiles": [
     "Week-01/Week-01.md",
+    "Week-01/Worker Status May 2026.md",
     "Week-01/Homework/Homework 6 Danger Accident and Near Miss Analysis.md",
     "Week-01/Homework/Homework 5 Full OHS Analysis.md",
     "Week-01/Homework/Homework 4 Near Miss.md",
     "Week-01/Homework/Homework 3 Accident.md",
     "Week-01/Homework/Homework 2 Danger.md",
     "Week-01/Homework/Homework 1 Hazard.md",
-    "Week-01/Worker Status May 2026.md",
     "Week-01/Homework",
     "Week-00/Week-00.md",
     "Week-01",
